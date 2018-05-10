@@ -66,6 +66,7 @@ def plotData(dataSet):
     plt.show()
 
 
+    
 def train(dataSet, plot = False):
 
     numLines = dataSet.shape[0]
